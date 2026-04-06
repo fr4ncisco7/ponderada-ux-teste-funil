@@ -1,6 +1,6 @@
 # Ponderada de teste UX
 
-### 1. Tela(s) analisada(s)
+### 1. Tela analisada
 **Print da tela:** ![Tela do Mapa FireOff](assets/tela-do-mapa.png)
 
 **Contexto:** A tela "Mapa" do sistema FireOff exibe o monitoramento georreferenciado de focos de incêndio florestal e a disposição logística de recursos de contenção (aéreos e terrestres), alimentada por um algoritmo de fluxo máximo.
